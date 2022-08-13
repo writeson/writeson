@@ -1,4 +1,4 @@
-<img align="center" str="https://github.com/writeson/writeson/blob/main/images/about_me_slide.png" width="1000px">
+<img align="center" src="https://github.com/writeson/writeson/blob/main/images/about_me_slide.png" width="1000px">
 
 <!--
 **writeson/writeson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
