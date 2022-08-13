@@ -1,5 +1,7 @@
 <img align="center" src="https://github.com/writeson/writeson/blob/main/images/about_me_slide.png" width="1000px">
 
+### Hi, I'm Doug Farrell
+
 <!--
 **writeson/writeson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
