@@ -11,9 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/dougfarrell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="ria-monga" height="30" width="40" /></a>
-    <a href="https://twitter.com/writeson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="riamonga7" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/183315/writes-on" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" alt="13900473" height="30" width="40" /></a>
-    <a href="https://instagram.com/writes_on/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg"" alt="monga_ria" height="30" width="40" /></a>
+    <a href="https://instagram.com/writes_on/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="monga_ria" height="30" width="40" /></a>
+    <a href="https://instagram.com/writes_on/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fostodon.svg" alt="monga_ria" height="30" width="40" /></a>
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ria700.Ria700)
