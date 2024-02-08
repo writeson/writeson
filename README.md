@@ -13,9 +13,6 @@
     <a href="https://linkedin.com/in/dougfarrell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn Icon" height="30" width="40" /></a>
     <a href="https://instagram.com/writes_on/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="Instagram Icon" height="30" width="40" /></a>
     <a href="https://instagram.com/writes_on/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mastodon.svg" alt="Mastodon Icon" height="30" width="40" /></a>
-
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mastodon.svg" alt="Mastodon Icon">
-
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ria700.Ria700)
